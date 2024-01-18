@@ -1,0 +1,3 @@
+/home/roxasrr/Codes/dsf2flac/build/CMakeFiles/dsf2flac.dir
+/home/roxasrr/Codes/dsf2flac/build/CMakeFiles/edit_cache.dir
+/home/roxasrr/Codes/dsf2flac/build/CMakeFiles/rebuild_cache.dir
